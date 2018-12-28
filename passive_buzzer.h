@@ -1,0 +1,1 @@
+int buzzer(int mode);

@@ -1,0 +1,1 @@
+cmd_/home/pi/systemproject/button_dev.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/systemproject/button_dev.ko /home/pi/systemproject/button_dev.o /home/pi/systemproject/button_dev.mod.o ;  true
