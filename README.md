@@ -13,7 +13,7 @@
 8. **dmesg**  
  *check device driver (_same way to check touch_dev_)  
 9. **gcc -o app (all .c file) -lpthread -lwiringPi**  
- *comile  
+ *compile  
 10. **./app**  
  *execute  
 
