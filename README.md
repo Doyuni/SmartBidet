@@ -17,3 +17,5 @@
 10. **./app**  
  *execute  
 
+## Algorithm
+![bidet_flowChart](./bidet_flowChart.png)
